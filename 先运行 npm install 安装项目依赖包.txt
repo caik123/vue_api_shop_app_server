@@ -1,0 +1,2 @@
+1、先运行 npm install 安装项目依赖包
+2、shop_app_vue项目的后台服务
